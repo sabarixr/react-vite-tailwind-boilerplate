@@ -38,6 +38,7 @@ Make sure you have the following installed:
 
 ### Folder Structure
 
+```
 my-app/
 ├── node_modules/
 ├── public/
@@ -53,6 +54,7 @@ my-app/
 ├── postcss.config.js
 ├── tailwind.config.js
 └── vite.config.js
+```
 
 ### Configuration
 
